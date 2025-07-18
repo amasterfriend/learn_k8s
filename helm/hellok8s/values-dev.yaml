@@ -1,6 +1,0 @@
-application:
-  hellok8s:
-    message: "It works with Helm Values values-dev.yaml!"
-    database:
-      url: "http://DB_ADDRESS_DEV"
-      password: "db_password_dev"
